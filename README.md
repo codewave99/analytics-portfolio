@@ -1,4 +1,4 @@
-# Amazon Sales Data Anaysis
+# Amazon Sales Data Analysis
 ## Overview
 This project analyzes **Amazon Sales Data** to identify  trends, customers behaviour, and revneue patterns. It includes data cleaning, exploratory data anaysis (EDA), and visualizations that highlight key business insights.
 You can read the full report with **code + outputs+ charts ** here [ PROJECT1 (PDF)]
